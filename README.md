@@ -57,4 +57,4 @@ The given below is an example of the <code>'demo.py'</code> file to demonstrate 
 <h3> Releases :</h3>
 For the updated version <b><a href="https://pypi.org/project/ttkvideo/"><u> Latest </u></a></b> version.
 <h3>License</h3>
-Distributed under the MIT License. See <b><a href="https://github.com/Vishal24102002/ttkvideo/blob/main/Licence.txt"> LICENSE </a></b>for more information.
+Distributed under the MIT License. See <b><a href="https://github.com/Coder-wis/ttkvideo/Licence.txt"> LICENSE </a></b>for more information.
