@@ -1,7 +1,7 @@
 # ttkvideo
 
 tkVideo: Python module for playing videos (with sound) inside tkinter Label widget using Pillow and imageio works best
-&amp; fast on small size videos however takes few seconds of time for larger videos files Copyright © 2024 vishal sharma
+&amp; fast on small size videos however takes few seconds of time for larger videos files Copyright © 2024 Coder-wis
 <vishalsharma.pypi@gmail.com>
 <br>
 <br>
