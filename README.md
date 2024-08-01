@@ -29,7 +29,7 @@ This will create a shim between your code and the module binaries that gets upda
 The given below is an example of the <code>'demo.py'</code> file to demonstrate the syntax :<br>
 <ol>
 <li><p> For Tkinter </p>
-<pre lan='sh'>
+<pre lang='sh'>
   import ttkvideo
   import tkinter as tk
   win=tk.Tk()
@@ -42,7 +42,7 @@ The given below is an example of the <code>'demo.py'</code> file to demonstrate 
 </li>
 <li>
 <p> For Customtkinter </p>
-<pre lan='sh'>
+<pre lang='sh'>
   import ttkvideo
   import customtkinter as ctk
   win=ctk.Tk()
